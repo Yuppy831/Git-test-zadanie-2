@@ -1,4 +1,5 @@
-﻿Console.WriteLine("Меню:");
+﻿Console.WriteLine("Привет! Это программа для выбора опции из меню.");
+Console.WriteLine("Меню:");
 Console.WriteLine("===================");
 Console.WriteLine("1.ВЫБОР А");
 Console.WriteLine("1.ВЫБОР Б");
